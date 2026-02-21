@@ -14,8 +14,8 @@
 //	    "context"
 //	    "log"
 //
-//	    "github.com/casdoor/notify2"
-//	    "github.com/casdoor/notify2/service/pagerduty"
+//	    "github.com/hanzoid/notify2"
+//	    "github.com/hanzoid/notify2/service/pagerduty"
 //	)
 //
 //	func main() {

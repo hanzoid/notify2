@@ -8,8 +8,8 @@ Usage:
 	import (
 		"log"
 
-		"github.com/casdoor/notify2"
-		"github.com/casdoor/notify2/service/matrix"
+		"github.com/hanzoid/notify2"
+		"github.com/hanzoid/notify2/service/matrix"
 	)
 
 	func main() {
